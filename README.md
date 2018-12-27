@@ -1,6 +1,6 @@
-# Anycubic Chiron Cura Definitions 
-# and Printer Profiles 
-
+# Anycubic Chiron Cura Definitions <br />
+# and Printer Profiles  
+<br /><br />
 Definition files to make the new Anycubic Chiron printer available in Cura 3.6.0 
 
 How to add the "Anycubic Chiron" printer to Cura 3.6.0:  
@@ -11,6 +11,7 @@ How to add the "Anycubic Chiron" printer to Cura 3.6.0:
     ... 
     
 2.) If needed delete cached "cura" files in C:\Users\yourUserName\AppData\Local\cura 
-
-3.) I'm working on some cura profiles which can be downloaded from "My Cura profiles". 
-    Note that im still working on these profiles!
+<br /><br />
+P.S.   
+I'm working on some cura profiles which can be downloaded from the "My Cura profiles" folder. 
+Note that im still working on these profiles!
