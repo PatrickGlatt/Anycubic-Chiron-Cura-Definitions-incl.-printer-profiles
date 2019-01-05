@@ -7,11 +7,11 @@
         "visible": true,
         "author": "Patrick Glatt",
         "manufacturer": "Anycubic",
-		"category": "Other",
+	"category": "Other",
         "file_formats": "text/x-gcode",
         "icon": "icon_ultimaker2",
         "platform": "anycubic_chiron_platform.stl",
-        "has_materials": false,
+        "has_materials": true,
         "has_machine_quality": true,
 		"quality_definition": "anycubic_chiron",
 		"preferred_quality_type": "normal",
@@ -42,15 +42,19 @@
         "machine_depth":
         {
             "default_value": 400
-        },
+        },	
         "machine_center_is_zero":
         {
             "default_value": false
         },
         "gantry_height":
         {
-            "default_value": 0
-        },
+            "default_value": 35
+        },	
+	"machine_head_with_fans_polygon":
+	{
+		"default_value": "[[-45, 50], [-45, -45], [45, 50], [45, -45]]"
+	},
         "machine_gcode_flavor":
         {
             "default_value": "RepRap (Marlin/Sprinter)"
