@@ -15,6 +15,7 @@ How to add the "Anycubic Chiron" printer to Cura 3.6.0:
 P.S.   
 I'm working on some cura profiles which can be downloaded from the "My Cura profiles" folder. 
 Note that im still working on these profiles!
-
+<br /><br />
 Cura 3.6.0. Screenshot
+<br /><br />
 ![Screenshot](Anycubic Chiron Definitions Cura 3.6.0.png)
